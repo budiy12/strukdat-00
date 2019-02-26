@@ -1,1 +1,6 @@
-Hallo nama saya Asep Budiyana Muharam umur 17 Tahun
+Nama	: Asep Budiyana Muharam
+TTl	: Garut, 12 April 2001 
+Asal	: Garut
+Hobi	: Nonton
+Usia	: 17 Tahun
+Motto	: BUFO (Be Useful For Other)
